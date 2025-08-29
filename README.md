@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This the first github repository. My name is Abid H Talukder
+This the first github repository.
+Authon - Abid Hasan Talukder
